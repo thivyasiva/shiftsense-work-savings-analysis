@@ -4,6 +4,8 @@ Solo project by Thivya Siva — Toronto Metropolitan University, Bachelor of Com
 
 A Python / pandas application that analyses working hours, income, expenses and estimated savings from shift records, and calculates weekday and shift-length trends.
 
+Completed Fall 2020 — TMU CPS 109 (Computer Science I).
+
 ## What it does
 
 Given a CSV of shifts — date, start time, end time, hourly rate and expenses — ShiftSense:
